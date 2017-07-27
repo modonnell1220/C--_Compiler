@@ -1,0 +1,4 @@
+In order to run the script sucessfully you either need to have already compiled your code. The compiled code needs to be named P3 not to be mixed up with p3 which is the script that also needs to be in the same folder(java users). Execute by typeing in ./Test    . Once completed you can vim, pico, or just click on the Results file in the folder.
+make
+./Test
+vim Results
