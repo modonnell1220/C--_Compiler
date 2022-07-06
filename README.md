@@ -1,4 +1,4 @@
-# C--Compiler-COP-4620
+# C-- Compiler
 
 cp1 is the lexical analyzer.
 cp2 is the parser.
